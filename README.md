@@ -29,6 +29,10 @@ A modern responsive restaurant landing page built using HTML, CSS, and JavaScrip
 ### Mobile View
 ![Mobile Preview](screenshots/mobile-view-restaurent.png.png)
 
+## Live Demo
+
+https://restaurant-website-eta-two.vercel.app/
+
 ## Author
 
 Syed Faizan
